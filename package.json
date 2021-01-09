@@ -28,6 +28,6 @@
 		"not op_mini all"
 	],
 	"devDependencies": {
-		"netlify-cli": "2.8.3"
+		"netlify-cli": "2.71.0"
 	}
 }
