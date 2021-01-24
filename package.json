@@ -3,7 +3,7 @@
 	"version": "0.1.0",
 	"private": true,
 	"dependencies": {
-		"dayjs": "1.8.14",
+		"dayjs": "1.10.4",
 		"dom-to-image": "2.6.0",
 		"react": "16.8.4",
 		"react-dom": "16.8.4",
